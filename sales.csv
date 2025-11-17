@@ -1,0 +1,26 @@
+OrderID,CustomerID,Product,Amount
+1001,C001,Laptop,1200
+1002,C002,Mouse,25
+1003,C003,Keyboard,45
+1004,C001,Monitor,200
+1005,C004,Laptop,1250
+1006,C021,Smartwatch,180
+1007,C022,Projector,450
+1008,C023,Graphics Card,700
+1009,C024,Router,95
+1010,C025,Microphone,130
+1011,C026,Speakers,160
+1012,C027,Drawing Tablet,320
+1013,C028,Drone,900
+1014,C029,VR Headset,650
+1015,C030,3D Printer,1200
+1016,C031,Game Console,500
+1017,C032,Smart TV,1100
+1018,C033,Power Bank,45
+1019,C034,Camera,850
+1020,C035,E-Reader,140
+1021,C036,Smart Light,40
+1022,C037,Air Purifier,300
+1023,C038,Portable SSD,210
+1024,C039,Smart Thermostat,190
+1025,C040,Electric Scooter,750
