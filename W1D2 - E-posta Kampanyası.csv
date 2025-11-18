@@ -1,0 +1,101 @@
+id,first_name,last_name,company_name,email,status,last_updated,country
+490942,maje,GENT,Innojam LLC,maje.g@innojam.com,Valid,10-16-2023,Zimbabwe
+378496,ABIGAEL,HAYLANDS,Jetwire,abigael.h@jetwire.com,Valid,12-1-2023,Indonesia
+695950,STARLIN,SABERTON,Minyx,starlin.s@hotmail.com,Valid,7-12-2023,Brazil
+311230,PENELOPA,PLANE,Mycat,penelopa.p@mycat.com,Valid,4-19-2023,Russia
+251933,Selby,BRAMSOM,Thoughtbeat,selby.b@thoughtbeat.com,Valid,4-20-2023,France
+952141,Cooper,KALISZ,Divape GMBH,cooper.k@divape.com,Valid,3-9-2023,Canada
+896495,koo,KAYNE,Oozz,koo.k@oozz.com,Valid,9-1-2023,China
+891493,solly,FAULCONBRIDGE,Yadel,solly.f@yahoo.com,Valid,,Indonesia
+580588,graehme,EDWARDES,Abata,graehme.e@abata.com,Valid,1-8-2023,China
+867434,hagen,LLORENTE,Photobug,hagen.l@photobug.com,Valid,2-21-2023,Norway
+176234,clara,TOOKE,Blogpad GMBH,clara.t@blogpad.com,Valid,,Indonesia
+725570,korrie,CARSTAIRS,Quatz,korrie.c@quatz.com,Valid,8-13-2023,Brazil
+700729,hamlen,MACANDIE,Pixonyx,hamlen.m@pixonyx.com,Valid,7-20-2023,Argentina
+377065,CHICK,ARTHURS,Bluejam LLC,chick.a@bluejam.com,Invalid,6-12-2023,
+619699,CONSTANTIA,LUTTON,Tagtune,constantia.l@tagtune.com,Invalid,12-17-2023,Philippines
+955000,FOSS,PHILIPSOHN,Voonder GMBH,foss.p@voonder.com,Catch-all,11-9-2023,Mexico
+778745,POLLYANNA,ATTRIDE,Voonix,pollyanna.a@voonix.com,Invalid,1-8-2023,Brazil
+854589,DRE,POLLER,Edgetag,dre.p@edgetag.com,Valid,,China
+833796,Anton,PAULMANN,Reallinks,anton.p@reallinks.com,Invalid,7-12-2023,China
+276000,Dalila,DOWDING,Mydo,dalila.d@mydo.com,Invalid,9-26-2023,Russia
+724516,Melisent,SMALLSMAN,Dablist,melisent.s@dablist.com,Valid,10-23-2023,Indonesia
+602815,AGGI,JORDESON,Thoughtbeat,aggi.j@yahoo.com,Catch-all,8-23-2023,Russia
+991788,andres,BUSFIELD,Kaymbo,andres.b@kaymbo.com,Valid,10-5-2023,Czech Republic
+999106,benedicto,WILLMETTS,Tagpad,benedicto.w@tagpad.com,Valid,11-25-2023,Poland
+840866,bay,MACGIBBON,Skinix,bay.m@skinix.com,Catch-all,12-19-2023,Mexico
+293391,rolf,PREW,Dabvine,rolf.p@dabvine.com,Valid,11-21-2023,Canada
+715439,odie,FARMER,Yombu,odie.f@hotmail.com,Invalid,8-15-2023,Denmark
+708372,kenna,BLANKLEY,Trudoo,kenna.b@trudoo.com,Invalid,6-27-2023,Djibouti
+376717,betsey,KLUG,Kaymbo LLC,betsey.k@kaymbo.com,Invalid,2-4-2023,Pakistan
+856638,chuck,GIACOBBO,Gabspot,chuck.g@gabspot.com,Catch-all,7-19-2023,Tanzania
+885499,michail,COSTELL,Shufflester,michail.c@shufflester.com,Valid,6-27-2023,Japan
+340204,anett,VINER,Jazzy,anett.v@jazzy.com,Valid,8-20-2023,Armenia
+906776,Ginny,LACKINTON,Dabvine,ginny.l@gmail.com,Valid,5-21-2023,United States
+396657,RODOLPH,ZECCHI,Shuffledrive,rodolph.z@shuffledrive.com,Valid,10-7-2023,Sweden
+696185,ALLI,BELDAM,Thoughtbridge GMBH,alli.b@thoughtbridge.com,Valid,,Honduras
+528175,Ludwig,BALDREY,Mycat,ludwig.b@mycat.com,Valid,3-4-2023,Djibouti
+968905,Kelwin,PIMERICK,Thoughtstorm,kelwin.p@thoughtstorm.com,Valid,3-14-2023,China
+128308,Brenna,LILLEYCROP,Quamba,brenna.l@quamba.com,Valid,10-21-2023,
+785451,BARBI,KELLETT,Mycat,barbi.k@mycat.com,Catch-all,9-3-2023,Russia
+702082,Cherice,DURWARD,Mita,cherice.d@mita.com,Valid,5-7-2023,Comoros
+239246,Jeremias,SAPWELL,Rhyzio,jeremias.s@rhyzio.com,Valid,3-3-2023,United States
+719850,ZIA,WARDALE,Twitterlist,zia.w@twitterlist.com,Valid,3-1-2023,Indonesia
+179540,Philbert,JOUTAPAVICIUS,Oyondu,philbert.j@oyondu.com,Valid,7-1-2023,Bulgaria
+387005,CORENE,DALBY,Yotz,corene.d@yahoo.com,Valid,1-11-2023,Canada
+514709,Henrieta,COSBY,Voomm Inc,henrieta.c@voomm.com,Valid,6-28-2023,Japan
+677898,Gerianna,DIVILL,Brightdog,gerianna.d@brightdog.com,Catch-all,4-13-2023,Ukraine
+887731,BALDUIN,BRIMHAM,Jamia,balduin.b@jamia.com,Valid,6-22-2023,Philippines
+521278,Hubert,MATOKHNIN,Brightbean,hubert.m@brightbean.com,Valid,10-27-2023,Cambodia
+402630,Hortense,FITZGILBERT,Vimbo,hortense.f@vimbo.com,Valid,4-5-2023,Portugal
+329776,Martainn,GASCOINE,Jaloo,martainn.g@jaloo.com,Valid,10-25-2023,Indonesia
+371115,teddy,PROSH,Trunyx,teddy.p@trunyx.com,Valid,8-13-2023,Pakistan
+901054,HALL,DE ROBERTIS,Meeveo Inc,hall.d@meeveo.com,Valid,10-1-2023,Mexico
+288197,Natale,MULLINS,Quaxo,natale.m@quaxo.com,Valid,8-16-2023,Central African Republic
+942450,Casi,ARNALL,Vinder,casi.a@vinder.com,Invalid,5-24-2023,Philippines
+987897,Ruggiero,CASHEN,Dynabox,ruggiero.c@dynabox.com,Valid,6-11-2023,Uganda
+663552,QUEENIE,FIGGER,Topicstorm,queenie.f@gmail.com,Valid,,Portugal
+861647,Horatia,VAN HESTEREN,Jabberbean,horatia.v@jabberbean.com,Valid,2-16-2023,Brazil
+966915,deny,MACQUARRIE,Photofeed,deny.m@photofeed.com,Valid,10-9-2023,Philippines
+686955,clerkclaude,BIGRIGG,Podcat LLC,clerkclaude.b@yahoo.com,Invalid,8-2-2023,Portugal
+541054,Sileas,CINO,Wordify,sileas.c@wordify.com,Valid,6-30-2023,Indonesia
+239333,Aigneis,JOICE,Tekfly,aigneis.j@tekfly.com,Valid,7-31-2023,Mexico
+612263,Bryon,OGLEVIE,Tagopia,bryon.o@tagopia.com,Valid,7-13-2023,Poland
+881209,CAROLAN,SMURFITT,Npath,carolan.s@npath.com,Valid,5-3-2023,Pakistan
+953427,Berk,GRZEGORZEWSKI,Oyonder,berk.g@oyonder.com,Invalid,3-10-2023,France
+405391,cross,RENSHALL,Feedfish,cross.r@feedfish.com,Valid,5-29-2023,Mongolia
+434588,jolene,BALDACCO,Livefish,jolene.b@livefish.com,Valid,2-26-2023,Argentina
+182896,OTHILIA,OAKENFALL,Shufflebeat,othilia.o@shufflebeat.com,Valid,8-8-2023,China
+558146,angelle,KIENL,Wordware,angelle.k@wordware.com,Valid,2-28-2023,Philippines
+834064,TOBIT,SEID,Vipe,tobit.s@vipe.com,Valid,12-20-2023,Venezuela
+372493,Valina,GALLONE,Skilith,valina.g@skilith.com,Valid,,Poland
+223932,Rabbi,BRAUN,Quaxo,rabbi.b@quaxo.com,Invalid,3-13-2023,
+443749,WILDEN,ELSLEY,Livepath LLC,wilden.e@yahoo.com,Invalid,5-15-2023,Central African Republic
+926654,Karlis,RICCIARDELLI,Demivee,karlis.r@demivee.com,Catch-all,5-7-2023,Portugal
+673159,sheela,SWANE,Bubblemix,sheela.s@bubblemix.com,Catch-all,10-13-2023,Greece
+816266,hadria,GAMMIE,Wikivu,hadria.g@wikivu.com,Valid,8-20-2023,Ecuador
+735125,merridie,ADDENBROOKE,Bluezoom,merridie.a@bluezoom.com,Catch-all,8-8-2023,Thailand
+311632,RAGNAR,WRENCH,Cogilith GMBH,ragnar.w@cogilith.com,Valid,10-7-2023,
+630762,zared,HACKLETON,Gigabox,zared.h@gmail.com,Catch-all,11-20-2023,Canada
+629535,Coraline,PALLIN,Babbleopia,coraline.p@babbleopia.com,Valid,6-19-2023,China
+177224,EUGEN,BOIK,Skyble,eugen.b@skyble.com,Valid,8-27-2023,China
+411611,dido,LIVOCK,Vinte,dido.l@vinte.com,Valid,12-23-2023,Philippines
+302493,Lambert,DAFFEY,Flashspan Inc,lambert.d@gmail.com,Valid,,China
+576279,Gothart,YARNTON,Oyonder,gothart.y@oyonder.com,Valid,4-2-2023,Peru
+577504,WINN,BORRETT,Twitterlist,winn.b@twitterlist.com,Catch-all,10-16-2023,Uganda
+876674,georgeta,COLLECK,Gigabox,georgeta.c@gigabox.com,Valid,1-6-2023,Sweden
+176505,hunter,THIBODEAUX,Quatz GMBH,hunter.t@quatz.com,Valid,10-14-2023,Portugal
+398606,Kiah,SATERWEYTE,Fadeo,kiah.s@fadeo.com,Valid,7-29-2023,Malaysia
+216874,Fancy,ICKOVITS,Kwilith,fancy.i@kwilith.com,Valid,2-27-2023,Russia
+919990,QUERIDA,ELMHURST,Trudeo Inc,querida.e@trudeo.com,Valid,10-5-2023,Peru
+140847,Teddie,CAPPS,Agimba,teddie.c@agimba.com,Valid,5-15-2023,Philippines
+744438,eadie,GIACOVELLI,Quamba,eadie.g@quamba.com,Valid,6-23-2023,Malaysia
+983857,otto,BOLTER,Yakijo,otto.b@yakijo.com,Valid,12-29-2023,Portugal
+668705,Keslie,PITTAWAY,Topicstorm,keslie.p@topicstorm.com,Valid,5-3-2023,Albania
+442719,BELTRAN,BLEIBAUM,Babbleopia,beltran.b@babbleopia.com,Catch-all,3-9-2023,Thailand
+406320,Costa,NOQUET,Livefish,costa.n@livefish.com,Valid,12-29-2023,France
+947386,Reece,WILDER,Plambee,reece.w@plambee.com,Valid,3-24-2023,Russia
+860755,ilene,BLANCE,Thoughtstorm Inc,ilene.b@thoughtstorm.com,Valid,2-9-2023,
+933419,klara,CROSFELD,Topicstorm,klara.c@yahoo.com,Valid,1-2-2023,Vietnam
+471274,daryn,GRINAUGH,Devpoint,daryn.g@devpoint.com,Valid,12-25-2023,Russia
+759899,halsey,PICOPP,Kwimbee GMBH,halsey.p@kwimbee.com,Valid,11-8-2023,Indonesia
